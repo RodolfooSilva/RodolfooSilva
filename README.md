@@ -3,12 +3,13 @@
 Rodolfo Silva
 
 
-- 🔭 Analista de Software/ AQ.
+- 🔭 Analista de Software/ QA.
 - 🌱 Front-End.
 - 👯 Java.
+- 👯 JavaScript.
 - 🤔 Frameworks.
 - 💬 Teste API´s.
-- ⚡ Analista de Software E2E.
+- ⚡ Analista de Software QA.
 
 ##
 
